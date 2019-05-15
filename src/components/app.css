@@ -1,0 +1,39 @@
+.header {
+    color:red;
+}
+.card {
+	min-width:275px;
+	display: inline-block;
+	margin:10px;
+}
+.card-title {
+   font-size: 14px;
+}
+.card-position {
+	margin-bottom:12px;
+}
+.avatar {
+	margin:30px auto;
+}
+.text-center{
+	text-align:center;
+	justify-content: center;
+}
+.input-margin{
+	width: 100%;
+}
+.container{
+	display: flex;
+	flex-wrap:wrap;
+}
+.add-user-btn{
+   position: fixed !important;
+   right:5px;
+   bottom:10px;
+}
+.progressBar {
+	position: absolute;
+	top:50%;
+	left:50%;
+	z-index: 1000000000;
+}
